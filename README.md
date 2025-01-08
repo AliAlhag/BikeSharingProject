@@ -22,3 +22,12 @@ This script:
     - Mirrors the data handling and preprocessing steps from the other two files.
     - Implements a Decision Tree Regressor model with optimal hyperparameters (max_depth=10).
     - Evaluates the Decision Tree model using MSE and R^2.
+
+
+## Model Evaluation Results
+
+**Decision Tree** - MSE: 103438.68722215774, R²: 0.9136746974221632
+
+**Random Forest** - MSE: 62722.59853659777, R²: 0.9476545242157701
+
+**MLP Regressor** - MSE: 67578.53900099674, R²: 0.9436019734618254
